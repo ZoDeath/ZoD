@@ -1,5 +1,20 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoDeath&show_icons=true&theme=radical)
 
+Tech Stack
+-
+<img src="https://img.shields.io/badge/Aftereffects-D9000D?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Premier-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C4d-011A6A?style=flat&logo=cinema4d&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/blender-E87D0D?style=flat&logo=blender&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+
 <!--
 **ZoDeath/ZoDeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
