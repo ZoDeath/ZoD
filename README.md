@@ -12,8 +12,9 @@ Tech Stack
 <img src="https://img.shields.io/badge/blender-E87D0D?style=flat&logo=blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 <!--
 **ZoDeath/ZoDeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
