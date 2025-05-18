@@ -14,7 +14,7 @@ Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-3776AB?style=flat-square&logo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 <!--
