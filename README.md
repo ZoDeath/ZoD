@@ -24,3 +24,10 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=flat&logo=blackmagicdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shader-7D3C98?style=flat&logo=opengl&logoColor=white"/>
+</p>
